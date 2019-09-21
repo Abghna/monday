@@ -19,5 +19,4 @@ void pallindrome()
       printf("%d is a palindrome number.\n", n);
    else
       printf("%d isn't a palindrome number.\n", n);
-//mn 
 }
